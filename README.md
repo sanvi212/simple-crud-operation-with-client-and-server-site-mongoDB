@@ -41,6 +41,8 @@ A full-stack CRUD application that allows users to be created, read, updated, an
 ### Clone & Setup Project
 
 ```bash
-git clone https://github.com/yourusername/simple-user-crud.git
-cd simple-user-crud
+git clone https://github.com/sanvi212/simple-crud-operation-with-client-and-server-site-mongoDB.git
+cd simple-crud-client
+cd simple-crud-server
 npm install
+"npm run dev" to start
